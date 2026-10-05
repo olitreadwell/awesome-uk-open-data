@@ -1,0 +1,767 @@
+{
+  "name": "Awesome UK Data",
+  "repo_slug": "awesome-uk-open-data",
+  "generated_at": "2026-10-06",
+  "entry_count": 54,
+  "sections": [
+    {
+      "name": "Legend",
+      "entries": []
+    },
+    {
+      "name": "Start here",
+      "entries": []
+    },
+    {
+      "name": "Central government and agencies",
+      "entries": [
+        {
+          "name": "GOV.UK",
+          "url": "https://www.gov.uk/",
+          "description": "The UK government site: content API, search, and the GOV.UK Design System, publishing government information as open data.",
+          "tags": [
+            "Portal",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 55
+        },
+        {
+          "name": "Data.gov.uk",
+          "url": "https://www.data.gov.uk/",
+          "description": "UK open data catalog: 10,000+ datasets from UK government departments and public bodies, with a CKAN API and DCAT metadata.",
+          "tags": [
+            "Portal",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 56
+        },
+        {
+          "name": "legislation.gov.uk",
+          "url": "https://www.legislation.gov.uk/",
+          "description": "The official statute book of the UK, available as structured XHTML, XML, and RDF for reuse, with a search API.",
+          "tags": [
+            "Register",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 57
+        },
+        {
+          "name": "The National Archives Discovery API",
+          "url": "https://discovery.nationalarchives.gov.uk/",
+          "description": "REST API over Discovery, the catalogue of records held by The National Archives and archives across the UK: search records, archive collections and file authorities, and fetch record details, hierarchies and reference data.",
+          "tags": [
+            "API",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 61
+        },
+        {
+          "name": "Planning Data",
+          "url": "https://www.planning.data.gov.uk/",
+          "description": "Ministry of Housing, Communities and Local Government platform for planning and housing data in England. One API serves over 100 datasets, from conservation areas and listed buildings to brownfield land and flood risk, and every dataset can be downloaded in bulk.",
+          "tags": [
+            "API",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 62
+        },
+        {
+          "name": "Find a Tender Service",
+          "url": "https://www.find-tender.service.gov.uk/",
+          "description": "Find a Tender is where UK public sector buyers publish notices about procurement opportunities and contracts, run by the Cabinet Office. Notices from February 2025 follow the Procurement Act 2023 and cover the full contract life cycle outside Scotland, while earlier procurements stay in the notice search. The same notices appear as Open Contracting Data Standard release packages over a JSON API that answered a plain request with records updated on 29 September 2026, and Find a Tender took over from Tenders Electronic Daily in the UK on 31 December 2020.",
+          "tags": [
+            "API",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 63
+        },
+        {
+          "name": "GOV.UK Trade Tariff API",
+          "url": "https://www.gov.uk/trade-tariff",
+          "description": "The GOV.UK Trade Tariff API is HMRC's JSON interface to the UK Trade Tariff, covering commodity codes, duties and VAT rates, quota measures and historical tariff data. It is updated daily, with documentation at docs.trade-tariff.service.gov.uk and an entry in the government API catalogue that places the data under the Open Government Licence v3.0. The sections endpoint returned 21 sections on 29 September 2026, and the heading and commodity endpoints return the goods nomenclature records behind a code. The newer service on api.trade-tariff.service.gov.uk issues OAuth credentials through HMRC's developer portal, and rate limiting came in from September 2026.",
+          "tags": [
+            "API",
+            "Key"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 64
+        },
+        {
+          "name": "The Gazette",
+          "url": "https://www.thegazette.co.uk/data",
+          "description": "The Gazette is the official public record of the UK, published since 1665 and produced by TSO under the superintendence of HM Stationery Office, part of The National Archives. Its archive holds company, insolvency, wills and probate, planning, honours and appointment notices, and it publishes them as linked data: a linked data API returns each notice as JSON-LD, Turtle or RDFa-enriched XML from format-specific URLs, and an Atom feed carries the latest notices and accepts search parameters such as text and start-publish-date. The site states the content is Crown copyright and free to use under the Open Government Licence v3.0, with the licence not covering the re-use of personal data.",
+          "tags": [
+            "Register",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 65
+        },
+        {
+          "name": "Charity Commission Register of Charities",
+          "url": "https://register-of-charities.charitycommission.gov.uk/",
+          "description": "The Charity Commission register for England and Wales as a daily extract, published as JSON and tab-delimited files: charity records plus trustee, annual return, classification, area of operation and governing document tables.",
+          "tags": [
+            "Register",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 66
+        },
+        {
+          "name": "Companies House API",
+          "url": "https://developer.company-information.service.gov.uk/",
+          "description": "Free JSON APIs for the UK company register: company profiles, officers, filings, and disqualified directors with an API key.",
+          "tags": [
+            "API",
+            "Key"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 67
+        },
+        {
+          "name": "HM Land Registry Data",
+          "url": "https://landregistry.data.gov.uk/",
+          "description": "Price paid data, property alerts, and INSPIRE spatial datasets for England and Wales, free under open licenses.",
+          "tags": [
+            "Data",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 68
+        },
+        {
+          "name": "UK Police Data",
+          "url": "https://data.police.uk/",
+          "description": "Street-level recorded crime, stop and search, and outcomes data for all forces, updated monthly.",
+          "tags": [
+            "API",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 69
+        },
+        {
+          "name": "DWP Stat-Xplore",
+          "url": "https://stat-xplore.dwp.gov.uk/",
+          "description": "The Department for Work and Pensions' tool for benefit statistics: choose a dataset, build a custom table, view it as a chart and download the result in common file formats. Guest access is free, and a free account adds saved tables, field customisation and queued large tables. Information in Stat-Xplore sits under the Open Government Licence, and the REST API under /webapi/rest/v1/ needs an account.",
+          "tags": [
+            "Portal",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 70
+        },
+        {
+          "name": "UK Parliament API",
+          "url": "https://api.parliament.uk/",
+          "description": "Parliamentary data APIs: bills, MPs, members’ interests, petitions, and Hansard content in structured JSON.",
+          "tags": [
+            "API",
+            "Open"
+          ],
+          "group": "UK Parliament",
+          "stars": null,
+          "last_push": null,
+          "line": 59
+        },
+        {
+          "name": "UK Parliament Members API",
+          "url": "https://members-api.parliament.uk/",
+          "description": "The UK Parliament Members API lists MPs and peers with their party, house, and dates of service, and reports the state of the parties in each house. The state-of-the-parties call takes a house, 1 for the Commons and 2 for the Lords, and a date, and returns each party with the seats it holds and the members counted behind them: on 1 October 2026 the Commons held 650 seats across 18 parties, with Labour on 403 and the Conservatives on 118. It answers without a key and sits alongside the main Parliament APIs on api.parliament.uk, and Parliament publishes the data under the Open Parliament Licence v3.0.",
+          "tags": [
+            "API",
+            "Open"
+          ],
+          "group": "UK Parliament",
+          "stars": null,
+          "last_push": null,
+          "line": 60
+        }
+      ]
+    },
+    {
+      "name": "Statistics and economics",
+      "entries": [
+        {
+          "name": "Nomis",
+          "url": "https://www.nomisweb.co.uk/",
+          "description": "Nomis is the official census and labour market statistics service, run by the University of Durham on behalf of the Office for National Statistics and first launched in 1981. It holds employment, unemployment, earnings and population figures by geography, sex, age and industry, drawn from the Labour Force Survey, the Annual Survey of Hours and Earnings, the Claimant Count, the Business Register and Employment Survey and the census. The REST API (v01) covers dataset discovery and data downloads in SDMX XML or JSON, CSV and JSON, with a query builder that will generate the API link for a chosen table.",
+          "tags": [
+            "Portal",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 77
+        },
+        {
+          "name": "UK Data Service",
+          "url": "https://ukdataservice.ac.uk/",
+          "description": "UK Data Service: curated social and economic data collections for research and teaching, with discovery and download APIs.",
+          "tags": [
+            "Portal",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 78
+        },
+        {
+          "name": "Bank of England Data",
+          "url": "https://www.bankofengland.co.uk/statistics/research-datasets",
+          "description": "Bank stats and research datasets: interest rates, money and credit, and the Interactive Database with CSV and JSON exports.",
+          "tags": [
+            "Data",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 79
+        },
+        {
+          "name": "Office for National Statistics",
+          "url": "https://www.ons.gov.uk/",
+          "description": "ONS: official UK statistics on population, economy, labour market, and society, plus the ONS API (api.ons.gov.uk) and data explorer.",
+          "tags": [
+            "Portal",
+            "Open"
+          ],
+          "group": "Office for National Statistics",
+          "stars": null,
+          "last_push": null,
+          "line": 75
+        },
+        {
+          "name": "ONS Open Geography Portal",
+          "url": "https://geoportal.statistics.gov.uk/",
+          "description": "Boundary data and geographies for UK statistics: output areas, wards, local authorities, and census geographies as downloads and APIs.",
+          "tags": [
+            "Data",
+            "Open"
+          ],
+          "group": "Office for National Statistics",
+          "stars": null,
+          "last_push": null,
+          "line": 76
+        }
+      ]
+    },
+    {
+      "name": "Health and social care",
+      "entries": [
+        {
+          "name": "NHS England Data",
+          "url": "https://digital.nhs.uk/data-and-information/data-tools-and-services",
+          "description": "NHS England data services: hospital statistics, workforce, GP practice data, and the NHS Digital APIs for health care data.",
+          "tags": [
+            "Data",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 83
+        },
+        {
+          "name": "NHSBSA Open Data Portal",
+          "url": "https://opendata.nhsbsa.net/",
+          "description": "The NHS Business Services Authority open data portal, free to use and reuse under the Open Government Licence. Its themes cover community prescribing and dispensing, dental activity, dispensing contractors, hospital and provider medicines, and digital service performance, alongside ad hoc statistical releases and the FOI disclosure log. Files download as CSV, XLSX, PDF and ZIP, and the portal listed 2,158 packages on 28 September 2026.",
+          "tags": [
+            "Portal",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 84
+        },
+        {
+          "name": "UKHSA data dashboard",
+          "url": "https://ukhsa-dashboard.data.gov.uk/",
+          "description": "UK Health Security Agency dashboard for public health data in England, covering respiratory viruses, healthcare-associated infections and antimicrobial resistance. The same data is available through a documented API and bulk chart downloads.",
+          "tags": [
+            "Data",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 85
+        },
+        {
+          "name": "Care Quality Commission Open Data",
+          "url": "https://www.cqc.org.uk/about-us/transparency/using-cqc-data",
+          "description": "The Care Quality Commission's data on the health and adult social care services it regulates in England. Its public API at api.service.cqc.org.uk lists every active and inactive provider and location, with the detail behind each one and the links between organisations, refreshed daily; an API key from the CQC developer portal is required. The care directory is also published as spreadsheet downloads. Both are under the Open Government Licence.",
+          "tags": [
+            "API",
+            "Key"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 86
+        },
+        {
+          "name": "Fingertips Public Health Profiles",
+          "url": "https://fingertips.phe.org.uk/",
+          "description": "The Office for Health Improvement and Disparities public health data collection for England, part of DHSC. Indicators are grouped into themed profiles that put local figures next to national comparators, with data down to small-area geography. The API answers in JSON or CSV, with R and Python clients, and its endpoint list is documented at /swagger/docs/v1. All content is under the Open Government Licence except where stated.",
+          "tags": [
+            "Data",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 87
+        },
+        {
+          "name": "Food Hygiene Rating Scheme API",
+          "url": "https://ratings.food.gov.uk/",
+          "description": "Food Standards Agency food hygiene ratings as a free JSON API: search establishment records and look up local authority details for England, Scotland, Wales and Northern Ireland. No key or sign-up, but every call must send an x-api-version header.",
+          "tags": [
+            "API",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 88
+        }
+      ]
+    },
+    {
+      "name": "Environment, climate and geospatial",
+      "entries": [
+        {
+          "name": "Environment Agency Data",
+          "url": "https://environment.data.gov.uk/",
+          "description": "Environment Agency open data: flood warnings, river levels, water quality, and pollution inventory via environment.data.gov.uk APIs.",
+          "tags": [
+            "API",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 92
+        },
+        {
+          "name": "OS Data Hub",
+          "url": "https://osdatahub.os.uk/",
+          "description": "Ordnance Survey data APIs: OS Maps, OS Features (address and place data), and OS OpenData products for Great Britain.",
+          "tags": [
+            "API",
+            "Key"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 93
+        },
+        {
+          "name": "British Geological Survey OpenGeoscience",
+          "url": "https://www.bgs.ac.uk/geological-data/opengeoscience/",
+          "description": "BGS geoscience data for the UK: OpenGeoscience publishes maps, borehole log scans, photographs and digital datasets free of charge, alongside WMS and WFS map services, a CSW catalogue for dataset discovery and a download service for geotechnical AGS data. The BGS ArcGIS Open Data Hub carried 72 datasets in its DCAT feed on 27 September 2026. OpenGeoscience data is under the Open Government Licence wherever possible, with a \"Contains British Geological Survey materials © UKRI\" acknowledgement.",
+          "tags": [
+            "Portal",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 94
+        },
+        {
+          "name": "Natural England Open Data Geoportal",
+          "url": "https://naturalengland-defra.opendata.arcgis.com/",
+          "description": "Natural England's open data geoportal on the Defra ArcGIS Hub: more than 250 datasets covering Sites of Special Scientific Interest, National Nature Reserves, the England Coast Path, ancient woodland, moorland change and local nature recovery strategy areas. Each dataset downloads as CSV, Shapefile, GeoJSON, KML, GeoPackage or file geodatabase, and is also served through ArcGIS REST services.",
+          "tags": [
+            "Portal",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 95
+        },
+        {
+          "name": "Defra UK-AIR (Air Information Resource)",
+          "url": "https://uk-air.defra.gov.uk/",
+          "description": "Defra's air quality data archive: hourly measurements from more than 1,500 monitoring sites across the UK, split into automatic and non-automatic networks, with a data selector for custom extracts and preformatted raw files from the automatic network. Descriptive statistics and exceedance statistics sit alongside the measurements under the Open Government Licence v3.0.",
+          "tags": [
+            "Data",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 96
+        },
+        {
+          "name": "Environmental Information Data Centre",
+          "url": "https://eidc.ac.uk/",
+          "description": "The Environmental Information Data Centre is the UK's national data centre for terrestrial and freshwater sciences, part of the Natural Environment Research Council's Environmental Data Service and hosted by the UK Centre for Ecology & Hydrology. Its catalogue held 2,432 records on 29 September 2026, with topics running from biodiversity and hydrology to land cover and pollution, and it is certified as a trusted repository by CoreTrustSeal. Downloads arrive as zipped data packages, or over plain HTTP for large holdings such as CHESS-met, and the catalogue answers JSON requests directly. Licences are set per record rather than site-wide, so each dataset page states its own terms. From 5 October 2026 programmatic downloads need a Personal Access Token in place of basic authentication.",
+          "tags": [
+            "Portal",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 97
+        },
+        {
+          "name": "Marine Directorate Data",
+          "url": "https://data.marine.gov.scot/",
+          "description": "The Marine Directorate of the Scottish Government publishes its marine data through this portal, covering fisheries and aquaculture, marine planning, marine renewables, and freshwater and marine monitoring. The catalogue runs on DKAN, so it is also available as a DCAT data.json feed and a service endpoint, and on 3 October 2026 the feed listed 302 datasets, each with its own licence and a Digital Object Identifier. The portal states that the data is free to download and gives a pre-formatted citation for each record.",
+          "tags": [
+            "Portal",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 98
+        },
+        {
+          "name": "National River Flow Archive",
+          "url": "https://nrfa.ceh.ac.uk/",
+          "description": "The National River Flow Archive is the UK's official record of river flow data, based at the UK Centre for Ecology & Hydrology and operated on behalf of Defra, the Scottish Government and the Welsh Government. It curates records from more than 1,600 gauging stations, many reaching back to the 1960s, and provides bulk downloads including the Peak Flow Dataset (version 15, released on 27 August 2026) alongside a documented REST API; the station-ids endpoint returned 1,604 stations on 3 October 2026. Access is granted under the NRFA click-through licence, which asks users to acknowledge \"Data from the UK National River Flow Archive\".",
+          "tags": [
+            "Data",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 99
+        },
+        {
+          "name": "SEPA Environmental Data",
+          "url": "https://www.sepa.org.uk/environment/environmental-data/",
+          "description": "Scottish Environment Protection Agency datasets: air, water, waste and flood data, published with CSV, GDB and GeoPackage downloads plus REST and WMS map services.",
+          "tags": [
+            "Data",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 103
+        },
+        {
+          "name": "Forest Research statistics",
+          "url": "https://www.forestresearch.gov.uk/tools-and-resources/statistics/",
+          "description": "Forest Research is the research agency of the Forestry Commission and Great Britain's principal organisation for forestry and tree-related research. Its statistics programme publishes official statistics on forestry, from the annual Forestry Statistics to Accredited Official Statistics such as Provisional Woodland Statistics 2026, and it follows the UK Statistics Authority's Code of Practice for Official Statistics. The time series behind those releases, covering woodland area, planting and restocking, wood production and timber prices, is available to download as ODS spreadsheets under the Open Government Licence v3.0.",
+          "tags": [
+            "Data",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 104
+        },
+        {
+          "name": "Met Office DataPoint",
+          "url": "https://www.metoffice.gov.uk/services/data/datapoint",
+          "description": "Met Office open weather API: 3-hourly and daily forecasts, observations, and warnings for UK locations with a free API key.",
+          "tags": [
+            "API",
+            "Key"
+          ],
+          "group": "Met Office",
+          "stars": null,
+          "last_push": null,
+          "line": 101
+        },
+        {
+          "name": "Met Office Climate Data Portal",
+          "url": "https://climatedataportal.metoffice.gov.uk/",
+          "description": "The Met Office Climate Data Portal publishes the UK's climate observations and projections as downloadable layers and GIS services. Its DCAT feed carried 98 datasets on 1 October 2026, with distributions in ZIP, CSV, GeoJSON, KML, TXT, XLSX, GPKG and GDB, plus an ArcGIS GeoServices REST API for each published layer. The holdings cover monthly and annual temperature, precipitation and wind-speed projections on 12km and 5km grids and at local-authority and sub-local-authority boundaries, sea level projections to 2100, the UK shared socioeconomic pathway scenarios, and gridded observations for 1991 to 2020. Licences are set per dataset, and 89 of the 98 state the Open Government Licence v3.0.",
+          "tags": [
+            "Data",
+            "Open"
+          ],
+          "group": "Met Office",
+          "stars": null,
+          "last_push": null,
+          "line": 102
+        }
+      ]
+    },
+    {
+      "name": "Transport",
+      "entries": [
+        {
+          "name": "TfL Unified API",
+          "url": "https://api.tfl.gov.uk/",
+          "description": "Transport for London API: live tube, bus, river, and road data, plus arrival predictions, journey plans, and stop information.",
+          "tags": [
+            "API",
+            "Key"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 108
+        },
+        {
+          "name": "National Highways Open Data",
+          "url": "https://opendata.nationalhighways.co.uk/",
+          "description": "National Highways open data services: geographical data about England’s strategic road network, available as downloads or through an API.",
+          "tags": [
+            "Portal",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 109
+        },
+        {
+          "name": "DVSA MOT History API",
+          "url": "https://documentation.history.mot.api.gov.uk/",
+          "description": "The MOT history API from the Driver and Vehicle Standards Agency serves vehicle and MOT test records over a JSON REST interface: cars, motorcycles and vans tested in Great Britain since 2005 and Northern Ireland since 2017, plus HGVs, trailers, buses and coaches from Great Britain since 2018 and Northern Ireland from 2017. Access needs a registered API key, the documentation carries its own error codes and rate limits, and a separate page covers bulk downloads of vehicle and MOT history data. All content on the documentation site sits under the Open Government Licence v3.0.",
+          "tags": [
+            "API",
+            "Key"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 110
+        },
+        {
+          "name": "Office of Rail and Road Data Portal",
+          "url": "https://dataportal.orr.gov.uk/",
+          "description": "The Office of Rail and Road publishes its rail statistics on the data portal: passenger and freight usage, performance and cancellations, fares and industry finance, rail safety including the Common Safety Indicators and RIDDOR incident reports, and infrastructure and environment data. Each statistical release carries a set of data tables that download as ODS files, and the portal lists the publication dates for releases ahead. Recent releases include Rail safety, April 2025 to March 2026, published on 24 September 2026, freight rail usage for April to June 2026 on 22 September 2026, and passenger rail performance for the same quarter on 17 September 2026. Material on ORR websites is Crown copyright and available under the Open Government Licence v3.0.",
+          "tags": [
+            "Portal",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 111
+        }
+      ]
+    },
+    {
+      "name": "Energy and utilities",
+      "entries": [
+        {
+          "name": "NESO Data Portal",
+          "url": "https://neso.energy/data-portal",
+          "description": "National Energy System Operator open data: generation mix, demand, balancing, and system forecasts for Great Britain.",
+          "tags": [
+            "Portal",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 115
+        },
+        {
+          "name": "Elexon Insights Solution (BMRS)",
+          "url": "https://www.elexon.co.uk/data/",
+          "description": "The Insights Solution is the open data service for the Balancing Mechanism Reporting Service, covering the electricity system of Great Britain. It publishes generation, demand, balancing and settlement, transmission, and REMIT and operational notices, with a free REST API that returns the data as JSON and a real-time IRIS streaming service alongside it; on 2 October 2026 a call to the generation endpoint returned half-hourly output by fuel type without a key. Elexon describes the service as the replacement for the older BMRS website, and its BMRS open data licence grants worldwide, royalty-free, perpetual and non-exclusive use on condition of the attribution \"Contains BMRS data © Elexon Limited copyright and database right [year]\".",
+          "tags": [
+            "API",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 116
+        }
+      ]
+    },
+    {
+      "name": "Education and research",
+      "entries": [
+        {
+          "name": "Explore Education Statistics",
+          "url": "https://explore-education-statistics.service.gov.uk/",
+          "description": "Department for Education statistics: school performance, pupil numbers, and early years data with a data explorer API.",
+          "tags": [
+            "Data",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 120
+        },
+        {
+          "name": "Office for Students Data and Analysis",
+          "url": "https://www.officeforstudents.org.uk/data-and-analysis/",
+          "description": "The Office for Students is the regulator for higher education in England, and its data and analysis pages carry the statistics behind that role: access and participation, student numbers and characteristics, student outcomes, the National Student Survey and the Teaching Excellence Framework. Interactive dashboards cover the size and shape of provision, student outcomes and TEF ratings, and the releases come with spreadsheet downloads, among them the 2024-25 student numbers table published on 16 September 2026. Content owned by the OfS is available for re-use under the Open Government Licence.",
+          "tags": [
+            "Data",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 121
+        },
+        {
+          "name": "UKRI Gateway to Research",
+          "url": "https://gtr.ukri.org/",
+          "description": "Gateway to Research (GtR) is the public catalogue of research and innovation funded by UK Research and Innovation. It indexes projects, organisations, people and outcomes, publishes the award data quarterly in the second week of April, July, October and January, and offers two REST APIs that return the catalogue as JSON without a key; on 2 October 2026 the project endpoint reported 158,710 projects across 15,871 pages of ten, the organisation endpoint 97,102 organisations, and the people endpoint 95,176 people. The site states the data is available under the Open Government Licence.",
+          "tags": [
+            "API",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 122
+        }
+      ]
+    },
+    {
+      "name": "Devolved administrations",
+      "entries": [
+        {
+          "name": "NISRA Statistics and Research",
+          "url": "https://www.nisra.gov.uk/",
+          "description": "The Northern Ireland Statistics and Research Agency's statistics hub. NISRA is an executive agency of the Department of Finance (NI) and publishes official statistics on population and the census, health and social care, work, pay and benefits, education and skills, transport, the environment and climate change, crime and justice, and the economy.",
+          "tags": [
+            "Portal",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 132
+        },
+        {
+          "name": "National Records of Scotland Statistics",
+          "url": "https://www.nrscotland.gov.uk/statistics-and-data",
+          "description": "National Records of Scotland publishes Scotland's official statistics on population, births, deaths, marriages and life expectancy, migration and households, and names, plus the country's census results. Its geography products include the Scottish Postcode Directory, whose index arrives as zipped CSV files with boundary data alongside, and the Scottish Statistics Postcode Lookup. Publications carry downloadable data files, and the site is under the Open Government Licence v3.0.",
+          "tags": [
+            "Data",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 133
+        },
+        {
+          "name": "DataMapWales",
+          "url": "https://datamap.gov.wales/",
+          "description": "Welsh public sector spatial data platform: a catalogue of datasets, maps and apps, with a map viewer, downloads, and direct data access through an API.",
+          "tags": [
+            "Portal",
+            "Open"
+          ],
+          "group": "Welsh Government",
+          "stars": null,
+          "last_push": null,
+          "line": 127
+        },
+        {
+          "name": "StatsWales",
+          "url": "https://stats.gov.wales/en-GB",
+          "description": "Welsh Government statistics about Wales, grouped by topic from health and housing to transport and the Welsh language. The public API lists the published datasets and downloads any of them as JSON, CSV or XLSX.",
+          "tags": [
+            "Data",
+            "Open"
+          ],
+          "group": "Welsh Government",
+          "stars": null,
+          "last_push": null,
+          "line": 128
+        },
+        {
+          "name": "Scottish Government Statistics",
+          "url": "https://www.gov.scot/statistics/",
+          "description": "The Scottish Government publishes its official statistics and research on gov.scot, listed together in a statistics and research hub that held over 6,000 publications on 1 October 2026. Releases cover the economy, population, health, education, justice, transport, housing and the environment, and most carry spreadsheet tables alongside the report, such as the Excel tables for the quarterly housing statistics update and the Scottish Fish Farm Production Survey. Publications are grouped into collections, among them economy statistics and the fish farm production surveys. Content on gov.scot is available under the Open Government Licence v3.0 except for graphic assets and where stated otherwise.",
+          "tags": [
+            "Portal",
+            "Open"
+          ],
+          "group": "Scottish Government",
+          "stars": null,
+          "last_push": null,
+          "line": 130
+        },
+        {
+          "name": "Scottish Health and Social Care Open Data",
+          "url": "https://www.opendata.nhs.scot/",
+          "description": "Public Health Scotland’s open data platform: health and social care statistics and reference data under the Open Government Licence, with a CKAN API for bulk access.",
+          "tags": [
+            "Portal",
+            "Open"
+          ],
+          "group": "Scottish Government",
+          "stars": null,
+          "last_push": null,
+          "line": 131
+        }
+      ]
+    },
+    {
+      "name": "Local and regional data",
+      "entries": [
+        {
+          "name": "London Datastore",
+          "url": "https://data.london.gov.uk/",
+          "description": "Greater London Authority open data: housing, planning, transport, air quality, and the London Dashboard datasets.",
+          "tags": [
+            "Portal",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 137
+        }
+      ]
+    },
+    {
+      "name": "Contributing",
+      "entries": []
+    }
+  ]
+}
