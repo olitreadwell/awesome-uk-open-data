@@ -257,7 +257,7 @@
         {
           "name": "UK Online Shelf-Price Index",
           "url": "https://data.yappman.com/shelf-price-index",
-          "description": "Weekly index of online shelf prices at Tesco, Sainsbury's, Asda and Aldi, built from EAN-matched products scraped direct from each retailer's site.",
+          "description": "Weekly index of online shelf prices at Tesco, Sainsbury's, Asda and Aldi, built from products matched week on week scraped direct from each retailer's site.",
           "tags": [
             "Data",
             "Open"
