@@ -2,7 +2,7 @@
   "name": "Awesome UK Data",
   "repo_slug": "awesome-uk-open-data",
   "generated_at": "2026-10-18",
-  "entry_count": 54,
+  "entry_count": 55,
   "sections": [
     {
       "name": "Legend",
@@ -600,6 +600,19 @@
           "line": 115
         },
         {
+          "name": "UK Carbon Intensity API",
+          "url": "https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0",
+          "description": "The National Energy System Operator publishes the carbon intensity of Great Britain's electricity every half hour, with a forecast and an actual reading in gCO2/kWh for each period and a grade from very low to very high. National and regional endpoints answer without a key, and the data is published under the Creative Commons Attribution 4.0 licence.",
+          "tags": [
+            "API",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 116
+        },
+        {
           "name": "Elexon Insights Solution (BMRS)",
           "url": "https://www.elexon.co.uk/data/",
           "description": "The Insights Solution is the open data service for the Balancing Mechanism Reporting Service, covering the electricity system of Great Britain. It publishes generation, demand, balancing and settlement, transmission, and REMIT and operational notices, with a free REST API that returns the data as JSON and a real-time IRIS streaming service alongside it; on 2 October 2026 a call to the generation endpoint returned half-hourly output by fuel type without a key. Elexon describes the service as the replacement for the older BMRS website, and its BMRS open data licence grants worldwide, royalty-free, perpetual and non-exclusive use on condition of the attribution \"Contains BMRS data © Elexon Limited copyright and database right [year]\".",
@@ -610,7 +623,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 116
+          "line": 117
         }
       ]
     },
@@ -628,7 +641,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 120
+          "line": 121
         },
         {
           "name": "Office for Students Data and Analysis",
@@ -641,7 +654,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 121
+          "line": 122
         },
         {
           "name": "UKRI Gateway to Research",
@@ -654,7 +667,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 122
+          "line": 123
         }
       ]
     },
@@ -672,7 +685,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 132
+          "line": 133
         },
         {
           "name": "National Records of Scotland Statistics",
@@ -685,7 +698,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 133
+          "line": 134
         },
         {
           "name": "DataMapWales",
@@ -698,7 +711,7 @@
           "group": "Welsh Government",
           "stars": null,
           "last_push": null,
-          "line": 127
+          "line": 128
         },
         {
           "name": "StatsWales",
@@ -711,7 +724,7 @@
           "group": "Welsh Government",
           "stars": null,
           "last_push": null,
-          "line": 128
+          "line": 129
         },
         {
           "name": "Scottish Government Statistics",
@@ -724,7 +737,7 @@
           "group": "Scottish Government",
           "stars": null,
           "last_push": null,
-          "line": 130
+          "line": 131
         },
         {
           "name": "Scottish Health and Social Care Open Data",
@@ -737,7 +750,7 @@
           "group": "Scottish Government",
           "stars": null,
           "last_push": null,
-          "line": 131
+          "line": 132
         }
       ]
     },
@@ -755,7 +768,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 137
+          "line": 138
         }
       ]
     },
