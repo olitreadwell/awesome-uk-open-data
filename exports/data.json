@@ -1,7 +1,7 @@
 {
   "name": "Awesome UK Data",
   "repo_slug": "awesome-uk-open-data",
-  "generated_at": "2026-10-06",
+  "generated_at": "2026-10-18",
   "entry_count": 54,
   "sections": [
     {
@@ -589,7 +589,7 @@
         {
           "name": "NESO Data Portal",
           "url": "https://neso.energy/data-portal",
-          "description": "National Energy System Operator open data: generation mix, demand, balancing, and system forecasts for Great Britain.",
+          "description": "The National Energy System Operator publishes its open data on a CKAN portal at api.neso.energy, which held 131 datasets on 18 October 2026: generation mix, demand, balancing services, system frequency, interconnector flows and system forecasts for Great Britain. Every dataset answers without a key and carries the NESO Open Data Licence, reported in the metadata as `ESO`. The largest is Historic GB Generation Mix, one row per half hour from January 2009 with a megawatt column per fuel: it held 311,937 half hours on 18 October 2026, and one datastore search call can sort it and take the newest week in a single request. The portal moved house when the operator became NESO, and the old data.nationalgrideso.com hostname no longer resolves.",
           "tags": [
             "Portal",
             "Open"
