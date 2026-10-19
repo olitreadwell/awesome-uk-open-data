@@ -1,8 +1,8 @@
 {
   "name": "Awesome UK Data",
   "repo_slug": "awesome-uk-open-data",
-  "generated_at": "2026-10-19",
-  "entry_count": 56,
+  "generated_at": "2026-10-20",
+  "entry_count": 57,
   "sections": [
     {
       "name": "Legend",
@@ -434,6 +434,19 @@
           "line": 96
         },
         {
+          "name": "postcodes.io",
+          "url": "https://postcodes.io/",
+          "description": "A keyless lookup over ONS and Ordnance Survey postcode data published under the Open Government Licence v3. The single-postcode endpoint returns the country, region, district, ward, parliamentary constituency, NHS area and coordinates for a postcode, and the service also offers bulk lookup and reverse geocoding. The data covers the UK, and the lookup service is run by a third party rather than a government body.",
+          "tags": [
+            "API",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 97
+        },
+        {
           "name": "Defra UK-AIR (Air Information Resource)",
           "url": "https://uk-air.defra.gov.uk/",
           "description": "Defra's air quality data archive: hourly measurements from more than 1,500 monitoring sites across the UK, split into automatic and non-automatic networks, with a data selector for custom extracts and preformatted raw files from the automatic network. Descriptive statistics and exceedance statistics sit alongside the measurements under the Open Government Licence v3.0.",
@@ -444,7 +457,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 97
+          "line": 98
         },
         {
           "name": "Environmental Information Data Centre",
@@ -457,7 +470,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 98
+          "line": 99
         },
         {
           "name": "Marine Directorate Data",
@@ -470,7 +483,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 99
+          "line": 100
         },
         {
           "name": "National River Flow Archive",
@@ -483,7 +496,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 100
+          "line": 101
         },
         {
           "name": "SEPA Environmental Data",
@@ -496,7 +509,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 104
+          "line": 105
         },
         {
           "name": "Forest Research statistics",
@@ -509,7 +522,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 105
+          "line": 106
         },
         {
           "name": "Met Office DataPoint",
@@ -522,7 +535,7 @@
           "group": "Met Office",
           "stars": null,
           "last_push": null,
-          "line": 102
+          "line": 103
         },
         {
           "name": "Met Office Climate Data Portal",
@@ -535,7 +548,7 @@
           "group": "Met Office",
           "stars": null,
           "last_push": null,
-          "line": 103
+          "line": 104
         }
       ]
     },
@@ -553,7 +566,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 109
+          "line": 110
         },
         {
           "name": "National Highways Open Data",
@@ -566,7 +579,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 110
+          "line": 111
         },
         {
           "name": "DVSA MOT History API",
@@ -579,7 +592,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 111
+          "line": 112
         },
         {
           "name": "Office of Rail and Road Data Portal",
@@ -592,7 +605,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 112
+          "line": 113
         }
       ]
     },
@@ -610,7 +623,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 116
+          "line": 117
         },
         {
           "name": "UK Carbon Intensity API",
@@ -623,7 +636,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 117
+          "line": 118
         },
         {
           "name": "Elexon Insights Solution (BMRS)",
@@ -636,7 +649,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 118
+          "line": 119
         }
       ]
     },
@@ -654,7 +667,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 122
+          "line": 123
         },
         {
           "name": "Office for Students Data and Analysis",
@@ -667,7 +680,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 123
+          "line": 124
         },
         {
           "name": "UKRI Gateway to Research",
@@ -680,7 +693,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 124
+          "line": 125
         }
       ]
     },
@@ -698,7 +711,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 134
+          "line": 135
         },
         {
           "name": "National Records of Scotland Statistics",
@@ -711,7 +724,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 135
+          "line": 136
         },
         {
           "name": "DataMapWales",
@@ -724,7 +737,7 @@
           "group": "Welsh Government",
           "stars": null,
           "last_push": null,
-          "line": 129
+          "line": 130
         },
         {
           "name": "StatsWales",
@@ -737,7 +750,7 @@
           "group": "Welsh Government",
           "stars": null,
           "last_push": null,
-          "line": 130
+          "line": 131
         },
         {
           "name": "Scottish Government Statistics",
@@ -750,7 +763,7 @@
           "group": "Scottish Government",
           "stars": null,
           "last_push": null,
-          "line": 132
+          "line": 133
         },
         {
           "name": "Scottish Health and Social Care Open Data",
@@ -763,7 +776,7 @@
           "group": "Scottish Government",
           "stars": null,
           "last_push": null,
-          "line": 133
+          "line": 134
         }
       ]
     },
@@ -781,7 +794,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 139
+          "line": 140
         }
       ]
     },
