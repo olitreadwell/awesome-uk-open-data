@@ -2,7 +2,7 @@
   "name": "Awesome UK Data",
   "repo_slug": "awesome-uk-open-data",
   "generated_at": "2026-10-20",
-  "entry_count": 57,
+  "entry_count": 58,
   "sections": [
     {
       "name": "Legend",
@@ -626,6 +626,19 @@
           "line": 117
         },
         {
+          "name": "NESO Historic GB Generation Mix",
+          "url": "https://api.neso.energy/dataset/88313ae5-94e4-4ddc-a790-593554d8c6b9",
+          "description": "The National Energy System Operator publishes Great Britain's half-hourly generation mix as one row per half hour from January 2009, with a megawatt column for gas, coal, nuclear, wind, embedded wind, hydro, imports, biomass, other, solar and storage. The datastore held 312,043 half hours on 20 October 2026, and a single search returns the newest 336 rows for a seven-day window. It answers without a key, and the dataset page records the NESO Open Data Licence in its metadata.",
+          "tags": [
+            "Data",
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 118
+        },
+        {
           "name": "UK Carbon Intensity API",
           "url": "https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0",
           "description": "The National Energy System Operator publishes the carbon intensity of Great Britain's electricity every half hour, with a forecast and an actual reading in gCO2/kWh for each period and a grade from very low to very high. National and regional endpoints answer without a key, and the data is published under the Creative Commons Attribution 4.0 licence.",
@@ -636,7 +649,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 118
+          "line": 119
         },
         {
           "name": "Elexon Insights Solution (BMRS)",
@@ -649,7 +662,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 119
+          "line": 120
         }
       ]
     },
@@ -667,7 +680,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 123
+          "line": 124
         },
         {
           "name": "Office for Students Data and Analysis",
@@ -680,7 +693,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 124
+          "line": 125
         },
         {
           "name": "UKRI Gateway to Research",
@@ -693,7 +706,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 125
+          "line": 126
         }
       ]
     },
@@ -711,7 +724,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 135
+          "line": 136
         },
         {
           "name": "National Records of Scotland Statistics",
@@ -724,7 +737,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 136
+          "line": 137
         },
         {
           "name": "DataMapWales",
@@ -737,7 +750,7 @@
           "group": "Welsh Government",
           "stars": null,
           "last_push": null,
-          "line": 130
+          "line": 131
         },
         {
           "name": "StatsWales",
@@ -750,7 +763,7 @@
           "group": "Welsh Government",
           "stars": null,
           "last_push": null,
-          "line": 131
+          "line": 132
         },
         {
           "name": "Scottish Government Statistics",
@@ -763,7 +776,7 @@
           "group": "Scottish Government",
           "stars": null,
           "last_push": null,
-          "line": 133
+          "line": 134
         },
         {
           "name": "Scottish Health and Social Care Open Data",
@@ -776,7 +789,7 @@
           "group": "Scottish Government",
           "stars": null,
           "last_push": null,
-          "line": 134
+          "line": 135
         }
       ]
     },
@@ -794,7 +807,7 @@
           "group": null,
           "stars": null,
           "last_push": null,
-          "line": 140
+          "line": 141
         }
       ]
     },
