@@ -1,7 +1,7 @@
 {
   "name": "Awesome UK Data",
   "repo_slug": "awesome-uk-open-data",
-  "generated_at": "2026-10-18",
+  "generated_at": "2026-10-19",
   "entry_count": 55,
   "sections": [
     {
@@ -314,7 +314,7 @@
         {
           "name": "UKHSA data dashboard",
           "url": "https://ukhsa-dashboard.data.gov.uk/",
-          "description": "UK Health Security Agency dashboard for public health data in England, covering respiratory viruses, healthcare-associated infections and antimicrobial resistance. The same data is available through a documented API and bulk chart downloads.",
+          "description": "UK Health Security Agency dashboard for public health data in England, covering respiratory viruses, healthcare-associated infections and antimicrobial resistance. The same data is available through a documented API at api.ukhsa-dashboard.data.gov.uk and bulk chart downloads. The API's HIV topic carries annual new diagnoses for England: on 19 October 2026 it held 35 points from 2015 to 2024, 10 of them the national total and five each for the named population groups from 2020. The national total was 4,506 in 2015, 2,240 in 2020 and 2,773 in 2024, and every point answers without a key.",
           "tags": [
             "Data",
             "Open"
