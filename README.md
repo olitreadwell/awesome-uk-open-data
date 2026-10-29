@@ -159,6 +159,8 @@ These cover most requests. Each one is listed in full under its publisher below.
 ### Banking
 
 - [Bank of England Data](https://www.bankofengland.co.uk/statistics/research-datasets) - ▦ Data - ○ Open - Bank stats and research datasets: interest rates, money and credit, and the Interactive Database with CSV and JSON exports.
+- [UK Online Shelf-Price Index](https://data.yappman.com/shelf-price-index) - ▦ Data - ○ Open - Weekly index of online shelf prices at Tesco, Sainsbury's, Asda and Aldi, built from products matched week on week scraped direct from each retailer's site.
+- [UK Supermarket Prices: Daily 212-Item Basket](https://www.kaggle.com/datasets/russellyapp/uk-supermarket-prices-daily-212-item-basket) - ▦ Data - ◕ Login - Daily prices for a fixed 212-item grocery basket across Tesco, Sainsbury's, Asda and Aldi, joined on EAN barcode (CC BY 4.0).
 
 ## Health and social care
 
